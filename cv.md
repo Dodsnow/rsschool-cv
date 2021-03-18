@@ -6,4 +6,4 @@
 <h3>4.<b>Code</b> examples i will put my first code link in a while :)</h3>
 <h3>5.<b>Experience</b> first day's :) first attempts<h/3>
 <h3>6.<b>Education</b> I have unfinished bachelor degree in International business and marketing of TVM, VU univerisity.
-<h3>7.<b>English</b> i would say my level of English is atleast B2</h3>	
+<h3>7.<b>English</b> i would say my level of English is atleast B2
